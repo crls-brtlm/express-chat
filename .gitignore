@@ -1,3 +1,6 @@
+# Build
+build
+
 # npm
 node_modules
 *.log
